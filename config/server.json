@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "cookieHost": "",
+  "cookieMaxAge": 86400,
+  "port": 8098,
+  "tempDirectory": "data/tmp/webapp",
+  "filesPath": "data/files",
+  "dbPath": "./data/database"
+}

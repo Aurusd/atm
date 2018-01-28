@@ -1,0 +1,11 @@
+/target/
+/.settings/
+/bin/
+/.classpath
+/logs/
+/data/
+server.iml
+.idea/
+*.iml
+.idea/workspace.xml
+
